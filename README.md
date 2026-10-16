@@ -48,7 +48,7 @@ Failed: 0
 Result: NETWORK HEALTHY
 ```
 
-*(Add a screenshot of your own run here.)*
+
 
 ## How to Read the Results
 
